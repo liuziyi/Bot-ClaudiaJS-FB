@@ -1,6 +1,6 @@
 # FB Messenger Chatbot using Claudia.js, AWS & Node.js
 
-- Links: Facebook Template Message builder (https://github.com/claudiajs/claudia-bot-builder/blob/master/docs/FB_TEMPLATE_MESSAGE_BUILDER.md)
+- Links: [Facebook Template Message builder](https://github.com/claudiajs/claudia-bot-builder/blob/master/docs/FB_TEMPLATE_MESSAGE_BUILDER.md)
 
 ## Step 1: Installations 
 
@@ -18,7 +18,9 @@
 
 - Go to https://www.facebook.com/pages/create
 - Add a button
+
 ![](images/step3/fb-pg-add-btn.png)
+
 - Select send message
 ![](images/step3/fb-pg-send-msg-btn.png)
 
